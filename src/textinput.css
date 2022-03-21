@@ -1,0 +1,14 @@
+/* # used as an id of the elements - all eletements with this id(#) will contain this style */
+/* h1 = element names */
+.contentInput {
+    margin-right: 50px;
+}
+
+.container {
+    margin: 5px;
+    display: flex;
+}
+
+button {
+    background-color: aqua;
+}
